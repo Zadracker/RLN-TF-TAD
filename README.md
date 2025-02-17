@@ -48,7 +48,14 @@ The project will be executed in **phases**, each with specific goals. The primar
 - Feel free to suggest optimizations or improvements along the way.
 
 ---
+###**Resources**
 
+- [Download Model Checkpoints](https://drive.google.com/drive/folders/1iU8yviO3TP87-IexBXsu13g6NklwEkXB)
+- [Semantic KITTI Dataset](https://semantic-kitti.org/dataset.html#download)
+- [Semantic 3D Dataset] - Defined in README.md of RandLA-Net (Tensorflow Version)
+- [WHU Rail3D Dataset](https://drive.google.com/drive/folders/1VRVSdApQ_As_A9OqHY7PP5HBKlDw9kcH)
+
+---
 **Thank you for your support and collaboration!**
 
 
